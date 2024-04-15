@@ -5,7 +5,7 @@
 
 
 
-## 팀원 소개
+## ❤️ 팀원 소개
 <table>
 <tbody>
 <tr>
@@ -87,7 +87,10 @@
 
 
 ## 🖋️ 요구사항 명세서
+![ tyranno-develops 개발문서 - 요구사항정의서](https://github.com/5-tyranno-develops/.github/assets/109326291/0eef183c-b261-4e88-9326-66382276a6df)
 
+
+## ⭐️ Api 설계서
 
 
 
