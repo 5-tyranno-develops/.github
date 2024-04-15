@@ -51,11 +51,35 @@
 **`2024.02.21~2024.04.14`**
 
 ## ☀️ 서비스 화면
-- 메인페이지
+
+### 메인페이지
 
 ![Untitled (2)](https://github.com/5-tyranno-develops/.github/assets/109326291/1f42f0ea-a9aa-4df1-9b17-1cfea4b89aa8)
 
+### 배송지 등록  
+카카오 우편주소 API 를 받아 배송지 등록하는 시스템을 만들었습니다.  
+이후에도 배송지 등록, 배송지 수정, 메인 배송지 등록 등 많은 기능이 추가되었습니다.
 
+<img width="400" alt="image" src="https://github.com/jmlee119/maphant-app/assets/68285285/d054096f-fdf5-4cee-952e-1473c1aea8e8">  
+
+### 장바구니  
+상품 상세페이지 혹은 리스트 페이지에서 상품을 장바구니 담기 할 수 있습니다.  
+또한 선택 된 상품들만 조회하기, 가격등 출력하게 했습니다.
+
+<img width="400" alt="image" src="https://github.com/jmlee119/2023Algorithm/assets/68285285/ce3d1ee4-bdc9-4548-af7e-c8d26102bd44">  
+
+
+### 상품 주문 & 결제    
+장바구니에 담긴 상품 혹은 단일 상품을 바로 주문 할 수 있습니다.  
+상품 주문 시에는 카카오 페이 API 를 받아 결제를 했으며 사업자등록이 되어있지 않기 때문에 테스트 결제만 가능합니다.
+
+<img width="400" alt="image" src="https://github.com/jmlee119/maphant-app/assets/68285285/30e23779-c25f-46fc-9783-87daf671a567">
+
+
+### 카카오 공유하기  
+원하는 상품을 카카오톡 친구와 공유할 수 있는 기능을 만들었습니다.  
+
+<img width="400" alt="image" src="https://github.com/jmlee119/maphant-app/assets/68285285/d220f422-f23c-4933-b16f-da5977e7eb78">  
 
 
 
@@ -87,7 +111,7 @@
 
 
 ## 🖋️ 요구사항 명세서
-![ tyranno-develops 개발문서 - 요구사항정의서](https://github.com/5-tyranno-develops/.github/assets/109326291/0eef183c-b261-4e88-9326-66382276a6df)
+
 
 
 ## ⭐️ Api 설계서
