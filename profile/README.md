@@ -114,7 +114,7 @@
 
 ## ⭐️ Api 설계서
 
-
+[API 정의서_tyranno.pdf](https://github.com/5-tyranno-develops/.github/files/14973406/API._tyranno.pdf)
 
 ## 🖋️ 요구사항 명세서
 
